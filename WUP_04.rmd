@@ -40,6 +40,8 @@ basicCN <- ggplot(GSScsv,aes(x=DEGREE,y=WORDSUM))
 basicCN + geom_boxplot()
 ```
 
+The graph shows a significant difference as The first quartile of the Graduates is higher than that of high school. Junior college was also higher than high school's third quartile. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
