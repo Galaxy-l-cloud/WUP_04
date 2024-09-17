@@ -45,6 +45,10 @@ The graph shows a significant difference as The first quartile of the Graduates 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+favstats(WORDSUM~DEGREE,data=GSScsv)
+```
+
 
 ## Inferential Results
 
