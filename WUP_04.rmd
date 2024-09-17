@@ -71,3 +71,4 @@ The Tukey test shows that LT High school and LT High school Graduate are below z
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+After observing and analysing the data, there was a differnce in WORDSUM vs Degree as shown by the follow up Tuket test and the graphs quartiles.
