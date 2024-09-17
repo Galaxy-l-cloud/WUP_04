@@ -58,6 +58,7 @@ GRADUATE has a Q1 of 10 in comparison to high school with a Q1 of 7. The second 
 model1 <- aov(WORDSUM~DEGREE,data=GSScsv)
 summary.aov(model1)
 ```
+The  inferential p value is 0.000236 which indicates that there is a statistical difference with the data values. 
 
 # Discussion and Conclusion
 
