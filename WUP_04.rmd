@@ -49,6 +49,7 @@ The graph shows a significant difference as The first quartile of the Graduates 
 favstats(WORDSUM~DEGREE,data=GSScsv)
 ```
 
+GRADUATE has a Q1 of 10 in comparison to high school with a Q1 of 7. The second closest Q1 would be for Junior College which has a Q1 of 9. We see however that Bachelor and Graduate have a Q3 of 11.00, while high school and Junior College have a Q3 of 9.00 and 8.25 respectively. 
 
 ## Inferential Results
 
